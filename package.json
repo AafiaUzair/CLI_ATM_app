@@ -1,0 +1,19 @@
+{
+  "name": "atm-by-aafia-uzair",
+  "version": "1.0.0",
+  "description": "This is a CLI based ATM app using TypeScript, Node.js and Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aafia Uzair",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
